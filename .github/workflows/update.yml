@@ -1,0 +1,28 @@
+
+name: Scrape latest data
+
+permissions:
+  contents: write
+
+on:
+  push:
+  schedule:
+    - cron:  '0 2 * * *'
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Fetch latest data
+        run: |
+          year=$(date +"%Y")
+          curl "https://gender-pay-gap.service.gov.uk/viewing/download-data/${year}" > "${year}-$((year+1)).csv"
+      - name: Commit and push if it changed
+        run: |
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Latest data: ${timestamp}" || exit 0
+          git push
