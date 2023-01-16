@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v3
       - name: Fetch latest data
         run: |
-          year=$(date +"%Y")
+          year=$(date -v-3m -v-5d +"%Y")
           curl "https://gender-pay-gap.service.gov.uk/viewing/download-data/${year}" > "${year}-$((year+1)).csv"
       - name: Commit and push if it changed
         run: |
