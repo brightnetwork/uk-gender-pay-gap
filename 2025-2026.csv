@@ -1,0 +1,7 @@
+"EmployerName","EmployerId","Address","PostCode","CompanyNumber","SicCodes","DiffMeanHourlyPercent","DiffMedianHourlyPercent","DiffMeanBonusPercent","DiffMedianBonusPercent","MaleBonusPercent","FemaleBonusPercent","MaleLowerQuartile","FemaleLowerQuartile","MaleLowerMiddleQuartile","FemaleLowerMiddleQuartile","MaleUpperMiddleQuartile","FemaleUpperMiddleQuartile","MaleTopQuartile","FemaleTopQuartile","CompanyLinkToGPGInfo","ResponsiblePerson","EmployerSize","CurrentName","SubmittedAfterTheDeadline","DueDate","DateSubmitted"
+"Hurst Education Trust Ltd","24861","College Lane, Hurstpierpoint, West Sussex, BN6 9JS","BN6 9JS","","","17.99","41.95","","","0","0","6.73","93.27","3.81","96.19","12.38","87.62","13.33","86.67","","","250 to 499","Hurst Education Trust Ltd","False","2026/03/31 00:00:00","2025/04/02 11:12:46"
+"London Borough of Islington","15354","7 Newington Barrow Way, London, N7 7EP","N7 7EP","","1,
+84110","-3.70","-3.98","-105.4","3.33","9.22","8.87","58","42","45","55","39","61","45","55","","","1000 to 4999","London Borough of Islington","False","2026/03/31 00:00:00","2025/03/31 08:57:03"
+"THE ROMERO CATHOLIC ACADEMY","12552","Cardinal Wiseman Catholic School, Potters Green Road, Coventry, England, CV2 2AJ","CV2 2AJ","09702162","85100,
+85200,
+85310","20.7","41.7","","","0","0","4","96","17","83","15","85","27","73","https://romero-prod.s3.eu-west-2.amazonaws.com/wp-content/uploads/2025/04/02094504/TRCA-Gender-Pay-Report-2025.pdf","","500 to 999","THE ROMERO CATHOLIC ACADEMY","False","2026/03/31 00:00:00","2025/04/02 10:55:42"
