@@ -141,6 +141,7 @@
 "CLAYESMORE SCHOOL","3336","Clayesmore School, Iwerne Minster, Blandford, Dorset, DT11 8LL","DT11 8LL","00359779","85200,
 85310","6.35","12.52","","","0","0","34.18","65.82","44.30","55.70","22.78","77.22","35.44","64.56","","Nina Bailey Phinn (Director of Finance and Operations)","250 to 499","CLAYESMORE SCHOOL","False","2026/04/05 00:00:00","2025/04/24 07:06:42"
 "CLEARSPRINGS READY HOMES LTD","23473","26 Brook Road, Rayleigh, SS6 7XJ","SS6 7XJ","07921508","68209","-3.62","-11.0","72.79","-7.93","1","1","52.4","47.6","56.7","43.3","64.4","35.6","63.5","36.5","","Claire Pycroft (Payroll Manager)","250 to 499","CLEARSPRINGS READY HOMES LTD","False","2026/04/05 00:00:00","2025/04/06 08:11:00"
+"Colchester Borough Homes","40140","Rowan House, 33 Sheepen Road, Colchester, Essex, England, CO3 3WG","CO3 3WG","","","13.50","16.64","","","0","0","25","75","38","62","54","46","54","46","","","Less than 250","Colchester Borough Homes","False","2026/03/31 00:00:00","2025/11/10 13:51:51"
 "COLLINS EARTHWORKS LIMITED","19130","Collins Earthworks Limited, Whiteley Road, Ripley, Derbyshire, England, DE5 3QL","DE5 3QL","04083989","43110,
 43120,
 77320","50.1","36.9","61.4","88.7","94.9","76.1","72.8","27.2","94.6","5.4","96.7","3.3","97.8","2.2","https://www.collinsearthworks.co.uk","Jill Goodwin (Director)","250 to 499","COLLINS EARTHWORKS LIMITED","False","2026/04/05 00:00:00","2025/05/01 10:33:09"
@@ -174,6 +175,9 @@
 "E H SMITH (BUILDERS MERCHANTS) LIMITED","4351","Westhaven House, Arleston Way, Shirley, Solihull, West Midlands, B90 4LH","B90 4LH","00800907","46130,
 46730,
 47520","10","1","80","0","31","10","82","18","77","23","84","16","79","21","","Ian Grainger (Finance Director)","250 to 499","E H SMITH (BUILDERS MERCHANTS) LIMITED","False","2026/04/05 00:00:00","2025/05/09 10:16:39"
+"E.E. SMITH CONTRACTS LIMITED","18897","25 Morris Road, Clarendon Industrial Estate, Leicester, LE2 6AL","LE2 6AL","00534798","31090,
+43320,
+43999","11.38","13.02","76.41","-60.00","62.24","55.00","87.04","12.96","87.04","12.96","96.30","3.70","92.59","7.41","","Neil Simpson (Director)","Less than 250","E.E. SMITH CONTRACTS LIMITED","False","2026/04/05 00:00:00","2025/11/10 16:02:05"
 "EAST ANGLIA'S CHILDREN'S HOSPICES","15631","East Anglia's Children's Hospice, Milton Church Lane, Milton, Cambridge, Cambridgeshire, England, CB24 6AB","CB24 6AB","03550187","86900","0.1","-6.4","","","0","0","21.9","78.1","22.4","77.6","10.4","89.6","13.1","86.9","https://www.each.org.uk/app/uploads/2025/09/gender-pay-report-April-2025.pdf","Amanda Drummond (Head of HR)","250 to 499","EAST ANGLIA'S CHILDREN'S HOSPICES","False","2026/04/05 00:00:00","2025/09/25 16:46:12"
 "East Devon District Council","4384","Blackdown House, Border Road, Heathpark Industrial Estate, Honiton, United Kingdom, EX14 1EJ","EX14 1EJ","","1,
 84110","1.57","-7.92","","","0","0","61","39","36","64","34","66","58","42","","","500 to 999","East Devon District Council","False","2026/03/31 00:00:00","2025/06/03 12:18:27"
@@ -239,6 +243,18 @@
 86210","30.92","15.22","37.69","-20.70","2.82","0.22","17.18","82.82","15.38","84.62","16.50","83.50","35.51","64.49","","","1000 to 4999","George Eliot Hospital Nhs Trust","False","2026/03/31 00:00:00","2025/10/24 10:16:22"
 "GLENN CLEANING & SUPPORT SERVICES LTD","28623","10 Abbey Court Fraser Road, Priory Business Park, Bedford, England, MK44 3WH","MK44 3WH","03379400","81210","3.737278175","1.000834028","32.58146235","-14.62686567","36.55913978","33.33333333","37.14285714","62.85714286","52","48","25.71428571","74.28571429","52.5","47.5","","Lenka Mejzlikova (Financial Controller)","250 to 499","GLENN CLEANING & SUPPORT SERVICES LTD","False","2026/04/05 00:00:00","2025/08/05 15:09:25"
 "GOV FACILITY SERVICES LIMITED","19009","102 Petty France, London, England, SW1H 9AJ","SW1H 9AJ","11061429","81100","14.09","22.56","4.48","-9.68","63","68.83","58.26","41.74","66.25","33.75","88.12","11.88","84.74","15.26","","Linda Hutler (Head of Payroll and Pensions)","1000 to 4999","GOV FACILITY SERVICES LIMITED","False","2026/04/05 00:00:00","2025/06/05 09:43:38"
+"GREENHOUS GROUP (HOLDINGS) LIMITED","5711","Greenhous Village, Osbaston, Telford, Shropshire, England, TF6 6RA","TF6 6RA","05270023","45111,
+45112,
+45190,
+45200","14.0","5.6","47.2","4.5","42.7","48.9","87.6","12.4","70.7","29.3","82.3","17.7","90.3","9.7","https://www.gghl.co.uk/gender-pay-gap-policy/","David Morris (Group Finance Director)","1000 to 4999","GREENHOUS GROUP (HOLDINGS) LIMITED","False","2026/04/05 00:00:00","2025/11/10 10:06:27"
+"GREENHOUS GROUP LIMITED","5712","Greenhous Village, Osbaston, Telford, Shropshire, England, TF6 6RA","TF6 6RA","03493415","45111,
+45112,
+45190,
+45200","19.4","17.2","78.1","-1.2","44.2","51.6","84.2","15.8","63.4","36.6","88.2","11.8","92.9","7.1","https://www.greenhous.co.uk/media/krjd11y0/gender-pay-gap-report-2025.pdf","David Morris (Group Finance Director)","500 to 999","GREENHOUS GROUP LIMITED","False","2026/04/05 00:00:00","2025/11/10 10:49:32"
+"GREENHOUS LIMITED","22892","Greenhous Village, Osbaston, Telford, Shropshire, England, TF6 6RA","TF6 6RA","00747073","45111,
+45112,
+45190,
+45200","17.2","-0.9","37.2","45.7","38.3","46.1","82.8","17.2","89.9","10.1","82.2","17.8","89.9","10.1","https://www.greenhous.co.uk/media/krjd11y0/gender-pay-gap-report-2025.pdf","David Morris (Group Finance Director)","250 to 499","GREENHOUS LIMITED","False","2026/04/05 00:00:00","2025/11/10 11:23:29"
 "GREENWOOD & COOPE LIMITED","5720","Brookhouse Mill, Greenmount, Bury, BL8 4HR","BL8 4HR","00200956","13939","-41.2","-6.2","-71.3","-17.5","100","100","86.3","13.7","83.3","16.7","75","25","86.3","13.7","","Iain Booth (Finance Director)","250 to 499","GREENWOOD & COOPE LIMITED","False","2026/04/05 00:00:00","2025/06/02 09:49:33"
 "GRUNDFOS PUMPS LIMITED","18906","Grovebury Road, Leighton Buzzard, Bedfordshire, LU7 4TL","LU7 4TL","00805960","28131","18.82","17.68","29.52","31.78","96.21","97.59","43.24","56.76","83.78","16.22","80.82","19.18","79.45","20.55","","Catherine Attwell (Head of Country HR & Plants - UK&I)","250 to 499","GRUNDFOS PUMPS LIMITED","False","2026/04/05 00:00:00","2025/10/21 09:20:23"
 "GRUPO BIMBO UK LIMITED","8899","Swinton Meadows Industrial, Estate Swinton, Rotherham, South Yorkshire, S64 8AB","S64 8AB","04571039","10710","5","3","5.6","1.7","65","35","64","36","67","33","64","36","66","34","","Stephen Strain (HR Director)","500 to 999","GRUPO BIMBO UK LIMITED","False","2026/04/05 00:00:00","2025/05/09 11:00:49"
@@ -416,6 +432,8 @@
 85310","21","37.1","1.5","1.5","1.1","0.2","15.8","84.2","21.8","78.2","30.9","69.1","40.6","59.4","","","500 to 999","ORION EDUCATION","False","2026/03/31 00:00:00","2025/07/30 09:07:37"
 "Oxford Diocesan Bucks Schools Trust","20022","Church House Oxford, Langford Locks, Kidlington, Oxford, Oxfordshire, UK, OX5 1GF","OX5 1GF","","","7.14","16.51","","","0","0","6.67","93.33","6.80","93.20","10.68","89.32","9.71","90.29","","","250 to 499","Oxford Diocesan Bucks Schools Trust","False","2026/03/31 00:00:00","2025/05/28 14:47:40"
 "OXFORD DIOCESAN SCHOOLS TRUST","9472","St Mary's Convent, Denchworth Road, Wantage, Oxfordshire, England, OX12 9AU","OX12 9AU","08143249","85600","18.3","24.9","","","0","0","4","96","7","93","9","91","15","85","https://oxforddiocesan.sharepoint.com/:w:/r/sites/ODSTHR/_layouts/15/Doc.aspx?sourcedoc=%7B879E8C8C-9D8D-4A6D-997D-967CC3FEF3B4%7D&file=Gender%20Pay%20Gap%202025.docx&action=default&mobileredirect=true","","1000 to 4999","OXFORD DIOCESAN SCHOOLS TRUST","False","2026/03/31 00:00:00","2025/09/17 15:14:09"
+"Oxleas Nhs Foundation Trust","9481","Pinewood House, Pinewood Place, Dartford, DA2 7WG","DA2 7WG","","1,
+86210","9.7","6.1","38","0","1.1","0.3","16.2","83.8","23.4","76.6","20.5","79.5","27.6","72.4","https://oxleas.nhs.uk/download/oxleas-gender-pay-gap-report-202425pdf.pdf?ver=4692&doc=docm93jijm4n2699.pdf","","5000 to 19,999","Oxleas Nhs Foundation Trust","False","2026/03/31 00:00:00","2025/11/10 15:25:25"
 "PARTINGTONS HOLIDAY CENTRES LIMITED","22605","204 Fleetwood Road North, Thornton-Cleveleys, Lancashire, FY5 4BJ","FY5 4BJ","00391104","55300","2","0","-276","-6","56","37","51","49","32","68","48","52","55","45","","Rachel Norris (HR Director)","250 to 499","PARTINGTONS HOLIDAY CENTRES LIMITED","False","2026/04/05 00:00:00","2025/05/12 09:40:14"
 "PASTDUE CREDIT SOLUTIONS LIMITED","19331","1 Blair Court North Avenue, Clydebank Business Park, Clydebank, Glasgow, G81 2LA","G81 2LA","SC287794","62012,
 62090,
@@ -423,6 +441,8 @@
 82911","8","0","4.82","-69.2","52.31","62.56","59.68","40.32","62.9","37.1","46.77","53.23","59.02","40.98","","Ashley Donnelly (Finance Manager)","500 to 999","PASTDUE CREDIT SOLUTIONS LIMITED","False","2026/04/05 00:00:00","2025/09/16 13:51:55"
 "PAYPLAN LIMITED","21498","Kempton House Kempton Way, Dysart Road, Grantham, England, NG31 7LE","NG31 7LE","11193612","70100","7.33","0","-4.8","0.3","83.8","91.3","23.7","76.3","22.7","77.3","29.2","70.8","27.1","72.9","","Mike Thackery (HR Director)","250 to 499","PAYPLAN LIMITED","False","2026/04/05 00:00:00","2025/04/07 12:26:09"
 "PENDINE PARK CARE ORGANISATION LTD","16627","Bromfield House Ellice Way, Wrexham Technology Park, Wrexham, Wales, LL13 7YW","LL13 7YW","07055392","87100","-7.59","0","-20.99","0","33.33","21.03","31.03","68.97","33.33","66.67","28.57","71.43","22.06","77.94","","Mario Kreft (Director)","500 to 999","PENDINE PARK CARE ORGANISATION LTD","False","2026/04/05 00:00:00","2025/07/04 15:47:24"
+"PEOPLESCOUT LIMITED","12769","265 Tottenham Court Road, London, United Kingdom, W1T 7RQ","W1T 7RQ","05648039","73110,
+78109","23.9","11.3","69","34","35","34","32","68","44","56","30","70","53","47","https://www.peoplescout.com/wp-content/uploads/2025/11/PeopleScout-2025-Gender-Pay-Gap.pdf","Jonathan Porter (Managing Director, EMEA)","Less than 250","PEOPLESCOUT LIMITED","False","2026/04/05 00:00:00","2025/11/10 15:18:09"
 "PERENCO UK LIMITED","9736","8 Hanover Square, London, England, W1S 1HQ","W1S 1HQ","04653066","6100,
 6200","28.5","39.8","25.4","30.2","87","90.6","69","31","92.8","7.2","95.8","4.2","94.6","5.4","https://www.perenco.com/documentation","Jonathan White (PUK-SNS General Manager)","500 to 999","PERENCO UK LIMITED","False","2026/04/05 00:00:00","2025/07/23 15:39:14"
 "PERRYS EAST MIDLANDS LIMITED","9745","PERRYS, Suite 1, 500 Pavilion Drive, Brackmills, Northampton, England, NN4 7YJ","NN4 7YJ","02086705","45111,
