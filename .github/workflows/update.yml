@@ -1,8 +1,7 @@
 
 name: Scrape latest data
 
-permissions:
-  contents: write
+permissions: {}
 
 on:
   push:
@@ -12,8 +11,10 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@a37ce9120846195fa4ece8f58b268e6043cb2f26 # v3.7.0 # zizmor: ignore[artipacked] job pushes scraped data with checkout creds
       - name: Fetch latest data
         run: |
           year=$(date --date="-3 months -5 days" +"%Y")
