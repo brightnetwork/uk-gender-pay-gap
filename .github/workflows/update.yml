@@ -4,9 +4,9 @@ name: Scrape latest data
 permissions: {}
 
 on:
-  push:
   schedule:
     - cron:  '0 2 * * *'
+  workflow_dispatch:
 
 jobs:
   scrape:
@@ -14,7 +14,9 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v3.7.0 # zizmor: ignore[artipacked] job pushes scraped data with checkout creds
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1 # zizmor: ignore[artipacked] job pushes scraped data with checkout creds
+        with:
+          ref: data
       - name: Fetch latest data
         run: |
           year=$(date --date="-3 months -5 days" +"%Y")
